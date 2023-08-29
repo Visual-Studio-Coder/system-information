@@ -1,0 +1,41 @@
+{
+  "name": "serial-number",
+  "version": "1.3.0",
+  "description": "Reads the machine's serial number (a.k.a. service/asset tag) or Amazon EC2 instance-id",
+  "author": {
+    "name": "Elan Shanker",
+    "url": "http://github.com/es128"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/es128/serial-number",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/es128/serial-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/es128/serial-number/issues"
+  },
+  "bin": {
+    "serial-number": "bin/serial-number"
+  },
+  "scripts": {
+    "postinstall": "node setup.js"
+  },
+  "keywords": [
+    "serial",
+    "number",
+    "serial-number",
+    "asset",
+    "service",
+    "tag",
+    "machine",
+    "hardware",
+    "dell",
+    "amazon",
+    "aws",
+    "ec2",
+    "instance-id",
+    "uuid"
+  ],
+  "dependencies": {}
+}
