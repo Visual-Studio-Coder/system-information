@@ -7,5 +7,3 @@ Have quick access to your system information so that you never have to open Syst
 - Serial Number
 - OS version
 - Disk Usage (free/total space in GB)
-
-More to come.
