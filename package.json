@@ -2,9 +2,13 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "system-information",
   "title": "System Information",
-  "description": "Gives you quick access to your system information so that you never have to open System Settings.",
+  "description": "Quick access to your system information so you never have to open System Settings.",
   "icon": "command-icon.png",
-  "author": "Vaibhav-Satishkumar",
+  "author": "Visual-Studio-Coder",
+  "contributors": [
+    "nagauta",
+    "air-rn"
+  ],
   "categories": [
     "Developer Tools",
     "Productivity"
@@ -13,14 +17,12 @@
   "commands": [
     {
       "name": "index",
-      "title": "Show System Information",
-      "description": "See your system information",
+      "title": "View System Information",
+      "description": "View your system information",
       "mode": "view"
     }
   ],
   "dependencies": {
-    "@libit/sn": "^0.3.2",
-    "@mapbox/node-pre-gyp": "^1.0.11",
     "@raycast/api": "^1.57.2",
     "macos-release": "^3.2.0",
     "macos-version": "^6.0.0",
