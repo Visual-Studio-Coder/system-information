@@ -1,4 +1,0 @@
-module RaycastSwiftMacros {
-    header "/Users/vaibhavsatishkumar/system-information/.build/arm64-apple-macosx/debug/RaycastSwiftMacros.build/RaycastSwiftMacros-Swift.h"
-    requires objc
-}
