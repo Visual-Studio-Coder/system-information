@@ -1,13 +1,10 @@
 import { Action, ActionPanel, environment, Icon, List } from "@raycast/api";
 import { exec } from "child_process";
-import { promisify } from "util";
 import macosRelease from "macos-release";
 import { macOSVersion } from "macos-version";
 import os from "os";
 import { useEffect, useState } from "react";
 import si from "systeminformation";
-
-const execPromise = promisify(exec);
 
 import { getStorageInfo } from "swift:../swift";
 
