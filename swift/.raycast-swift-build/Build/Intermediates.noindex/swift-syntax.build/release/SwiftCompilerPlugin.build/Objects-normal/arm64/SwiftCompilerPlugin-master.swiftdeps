@@ -1,7 +1,7 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
 options: "f235be76397e9a2434f4a82388155c2fa05b4a0ae6ef3359803a7d3b0950f7b1"
-build_start_time: [1742159165, 975026000]
-build_end_time: [1742159166, 376006000]
+build_start_time: [1742160156, 686770000]
+build_end_time: [1742160157, 81267000]
 inputs:
   ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPlugin/CompilerPlugin.swift"
   : [1742158267, 884923418]

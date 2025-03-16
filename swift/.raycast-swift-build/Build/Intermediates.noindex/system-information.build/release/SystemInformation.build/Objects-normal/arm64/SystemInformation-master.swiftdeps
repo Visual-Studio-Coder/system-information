@@ -1,10 +1,10 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
 options: "c6230abcae42542b8a23ed16ad0420452fc20308d1531b51143a28978a890c2f"
-build_start_time: [1742159169, 191573000]
-build_end_time: [1742159170, 27228000]
+build_start_time: [1742160198, 38419000]
+build_end_time: [1742160199, 376549000]
 inputs:
   ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/system-information.build/release/SystemInformation.build/DerivedSources/resource_bundle_accessor.swift"
-  : [1742158706, 803998643]
+  : [1742159510, 390553604]
   ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/plugins/swift.output/SystemInformation/RaycastSwiftPlugin/_RayMain.swift"
-  : [1742159169, 178249907]
-  "/Users/vaibhavsatishkumar/system-information/swift/Sources/StorageInfo.swift": [1742156830, 707315190]
+  : [1742160198, 32894503]
+  "/Users/vaibhavsatishkumar/system-information/swift/Sources/StorageInfo.swift": [1742159513, 988673601]

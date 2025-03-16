@@ -1,9 +1,9 @@
 "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/AbsolutePosition.swift":
-  swiftdoc: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax.swiftdoc"
-  objc-header: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax-Swift.h"
   swiftmodule: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax.swiftmodule"
   abi-baseline-json: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax.abi.json"
-  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax-master.dia"
-  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax-master.d"
   swiftsourceinfo: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax.swiftsourceinfo"
   const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax-master.swiftconstvalues"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax-master.d"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax-master.dia"
+  swiftdoc: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax.swiftdoc"
+  objc-header: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntax.build/Objects-normal/x86_64/SwiftSyntax-Swift.h"

@@ -1,7 +1,7 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
 options: "bdd3fe87277c9f7180ef3b5d63d0e9c4aafcdd4ee9cea0b0567cf65c028ec5b5"
-build_start_time: [1742159144, 354263000]
-build_end_time: [1742159147, 802098000]
+build_start_time: [1742160152, 147220000]
+build_end_time: [1742160153, 571149000]
 inputs:
   ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/Operator.swift"
   : [1742158267, 887458769]

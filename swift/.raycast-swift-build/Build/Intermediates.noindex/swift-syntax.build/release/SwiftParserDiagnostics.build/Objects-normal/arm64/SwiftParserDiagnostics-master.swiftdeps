@@ -1,7 +1,7 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
 options: "df8701c39c6b102250b929a6441f63137593149e2466cb8894d2930fb3b79077"
-build_start_time: [1742159144, 354266000]
-build_end_time: [1742159153, 712194000]
+build_start_time: [1742160141, 538288000]
+build_end_time: [1742160146, 518635000]
 inputs:
   ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/DiagnosticExtensions.swift"
   : [1742158267, 901409389]

@@ -1,7 +1,7 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
 options: "98531f8e5a3ed9f1f9a8f8e1dd28758a1b48d66cae4a380e579f5c1056588ce5"
-build_start_time: [1742159117, 998050000]
-build_end_time: [1742159144, 428419000]
+build_start_time: [1742160120, 320167000]
+build_end_time: [1742160140, 343612000]
 inputs:
   ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Attributes.swift"
   : [1742158267, 889482209]

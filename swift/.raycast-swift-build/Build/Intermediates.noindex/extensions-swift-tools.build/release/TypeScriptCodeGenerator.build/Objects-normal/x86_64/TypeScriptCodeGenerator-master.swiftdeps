@@ -1,7 +1,7 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
 options: "1fd5ec32faceaba6dd43b40f12bac7fcb6a7eb4fd8b817bb038a18df455c3556"
-build_start_time: [1742159144, 335899000]
-build_end_time: [1742159149, 199546000]
+build_start_time: [1742160159, 718216000]
+build_end_time: [1742160162, 267156000]
 inputs:
   ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/TypeScriptPlugin/Implementation/Arguments.swift"
   : [1742158267, 779256366]
