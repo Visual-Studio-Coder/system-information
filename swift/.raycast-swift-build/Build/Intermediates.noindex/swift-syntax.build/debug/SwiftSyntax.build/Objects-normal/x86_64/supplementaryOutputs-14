@@ -1,0 +1,36 @@
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/TokenKind.swift":
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/TokenKind.swiftdeps"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/TokenKind.dia"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/TokenKind.d"
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/TokenKind.o"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/TokenKind.swiftconstvalues"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/raw/RawSyntaxValidation.swift":
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/RawSyntaxValidation.swiftdeps"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/RawSyntaxValidation.swiftconstvalues"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/RawSyntaxValidation.dia"
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/RawSyntaxValidation.o"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/RawSyntaxValidation.d"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/Tokens.swift":
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/Tokens.o"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/Tokens.swiftdeps"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/Tokens.dia"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/Tokens.d"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/Tokens.swiftconstvalues"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/TriviaPieces.swift":
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/TriviaPieces.o"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/TriviaPieces.swiftconstvalues"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/TriviaPieces.swiftdeps"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/TriviaPieces.d"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/TriviaPieces.dia"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxVisitor.swift":
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/SyntaxVisitor.o"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/SyntaxVisitor.dia"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/SyntaxVisitor.d"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/SyntaxVisitor.swiftdeps"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/SyntaxVisitor.swiftconstvalues"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/raw/RawSyntaxNodes.swift":
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/RawSyntaxNodes.swiftdeps"
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/RawSyntaxNodes.o"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/RawSyntaxNodes.d"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/RawSyntaxNodes.swiftconstvalues"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/x86_64/RawSyntaxNodes.dia"

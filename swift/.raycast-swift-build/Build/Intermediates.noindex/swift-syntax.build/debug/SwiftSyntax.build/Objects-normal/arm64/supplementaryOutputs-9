@@ -1,0 +1,36 @@
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/RenamedNodesCompatibility.swift":
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.o"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.dia"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.d"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.swiftconstvalues"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.swiftdeps"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxAnyVisitor.swift":
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.swiftconstvalues"
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.o"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.d"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.swiftdeps"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.dia"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxBaseNodes.swift":
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.o"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.dia"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.swiftdeps"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.d"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.swiftconstvalues"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/RenamedChildrenCompatibility.swift":
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.o"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.d"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.swiftdeps"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.swiftconstvalues"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.dia"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/ChildNameForKeyPath.swift":
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.swiftconstvalues"
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.o"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.swiftdeps"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.d"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.dia"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/Keyword.swift":
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.swiftconstvalues"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.dia"
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.o"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.d"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.swiftdeps"

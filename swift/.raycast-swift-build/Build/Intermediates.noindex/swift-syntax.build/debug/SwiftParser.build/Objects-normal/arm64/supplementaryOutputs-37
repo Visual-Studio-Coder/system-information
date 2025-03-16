@@ -1,0 +1,30 @@
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Recovery.swift":
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Recovery.d"
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Recovery.o"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Recovery.swiftdeps"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Recovery.dia"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Recovery.swiftconstvalues"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Parser.swift":
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Parser.swiftconstvalues"
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Parser.o"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Parser.swiftdeps"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Parser.dia"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Parser.d"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Specifiers.swift":
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Specifiers.swiftdeps"
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Specifiers.o"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Specifiers.swiftconstvalues"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Specifiers.d"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Specifiers.dia"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Statements.swift":
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Statements.d"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Statements.swiftdeps"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Statements.dia"
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Statements.o"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Statements.swiftconstvalues"
+"/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Patterns.swift":
+  object: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Patterns.o"
+  dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Patterns.d"
+  const-values: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Patterns.swiftconstvalues"
+  diagnostics: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Patterns.dia"
+  swift-dependencies: "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/Patterns.swiftdeps"

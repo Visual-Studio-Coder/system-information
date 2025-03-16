@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/SwiftCompilerPluginMessageHandling-master.dia",
+    "emit-module-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/SwiftCompilerPluginMessageHandling-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/SwiftCompilerPluginMessageHandling-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/SwiftCompilerPluginMessageHandling-master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/CompilerPluginMessageHandler.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/CompilerPluginMessageHandler.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/CompilerPluginMessageHandler.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/CompilerPluginMessageHandler.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/CompilerPluginMessageHandler.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/CompilerPluginMessageHandler.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/CompilerPluginMessageHandler.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/CompilerPluginMessageHandler.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/CompilerPluginMessageHandler~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Diagnostics.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Diagnostics.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Diagnostics.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Diagnostics.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Diagnostics.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Diagnostics.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Diagnostics.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Diagnostics.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Diagnostics~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Macros.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Macros.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Macros.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Macros.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Macros.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Macros.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Macros.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Macros.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/Macros~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMacroExpansionContext.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMacroExpansionContext.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMacroExpansionContext.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMacroExpansionContext.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMacroExpansionContext.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMacroExpansionContext.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMacroExpansionContext.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMacroExpansionContext.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMacroExpansionContext~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessageCompatibility.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessageCompatibility.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessageCompatibility.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessageCompatibility.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessageCompatibility.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessageCompatibility.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessageCompatibility.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessageCompatibility.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessageCompatibility~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessages.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessages.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessages.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessages.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessages.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessages.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessages.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessages.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/x86_64/PluginMessages~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/SwiftMacros/Interface/API.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/API.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/API.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/API~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/API.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/SwiftMacros/Interface/_Ray.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_Ray.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_Ray.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_Ray~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_Ray.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/SwiftMacros/Interface/_RayArguments.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayArguments.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayArguments.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayArguments~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayArguments.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/SwiftMacros/Interface/_RayCallback.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayCallback.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayCallback.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayCallback~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayCallback.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/SwiftMacros/Interface/_RayError.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayError.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayError.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayError~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayError.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/SwiftMacros/Interface/_RayProxy.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayProxy.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayProxy.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/RaycastSwiftMacros.build/_RayProxy.swiftdeps"
+  }
+}

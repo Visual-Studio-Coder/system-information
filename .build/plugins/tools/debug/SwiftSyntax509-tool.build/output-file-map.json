@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftSyntax509-tool.build/master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftSyntax509/Empty.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftSyntax509-tool.build/Empty.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftSyntax509-tool.build/Empty.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftSyntax509-tool.build/Empty~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftSyntax509-tool.build/Empty.swiftdeps"
+  }
+}

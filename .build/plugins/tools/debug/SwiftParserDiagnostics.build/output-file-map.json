@@ -1,0 +1,83 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/DiagnosticExtensions.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/DiagnosticExtensions.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/DiagnosticExtensions.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/DiagnosticExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/DiagnosticExtensions.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/LexerDiagnosticMessages.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/LexerDiagnosticMessages.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/LexerDiagnosticMessages.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/LexerDiagnosticMessages~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/LexerDiagnosticMessages.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MissingNodesError.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MissingNodesError.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MissingNodesError.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MissingNodesError~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MissingNodesError.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MissingTokenError.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MissingTokenError.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MissingTokenError.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MissingTokenError~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MissingTokenError.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MultiLineStringLiteralDiagnosticsGenerator.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MultiLineStringLiteralDiagnosticsGenerator.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MultiLineStringLiteralDiagnosticsGenerator.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MultiLineStringLiteralDiagnosticsGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/MultiLineStringLiteralDiagnosticsGenerator.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/ParseDiagnosticsGenerator.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ParseDiagnosticsGenerator.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ParseDiagnosticsGenerator.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ParseDiagnosticsGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ParseDiagnosticsGenerator.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/ParserDiagnosticMessages.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ParserDiagnosticMessages.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ParserDiagnosticMessages.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ParserDiagnosticMessages~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ParserDiagnosticMessages.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/PresenceUtils.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/PresenceUtils.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/PresenceUtils.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/PresenceUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/PresenceUtils.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/SyntaxExtensions.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/SyntaxExtensions.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/SyntaxExtensions.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/SyntaxExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/SyntaxExtensions.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/Utils.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/Utils.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/Utils.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/Utils~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/Utils.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/ChildNameForDiagnostics.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ChildNameForDiagnostics.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ChildNameForDiagnostics.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ChildNameForDiagnostics~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/ChildNameForDiagnostics.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/SyntaxKindNameForDiagnostics.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/SyntaxKindNameForDiagnostics.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/SyntaxKindNameForDiagnostics.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/SyntaxKindNameForDiagnostics~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/SyntaxKindNameForDiagnostics.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/TokenNameForDiagnostics.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/TokenNameForDiagnostics.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/TokenNameForDiagnostics.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/TokenNameForDiagnostics~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/TokenNameForDiagnostics.swiftdeps"
+  }
+}

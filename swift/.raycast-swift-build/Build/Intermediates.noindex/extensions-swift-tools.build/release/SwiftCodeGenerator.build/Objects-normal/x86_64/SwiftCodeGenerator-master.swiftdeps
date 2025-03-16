@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "437f0378b6e548065278907bc1d37ad10de96fd58c684a8dce6751c3df90d764"
+build_start_time: [1742158814, 11517000]
+build_end_time: [1742158815, 66042000]
+inputs:
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftPlugin/Implementation/Arguments.swift"
+  : [1742158267, 778797162]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftPlugin/Implementation/SwiftCodeGenerator.swift"
+  : [1742158267, 778973618]

@@ -1,0 +1,4 @@
+module SwiftParser {
+header "SwiftParser-Swift.h"
+export *
+}

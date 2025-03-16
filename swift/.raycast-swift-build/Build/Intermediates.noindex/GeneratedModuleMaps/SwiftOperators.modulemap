@@ -1,0 +1,4 @@
+module SwiftOperators {
+header "SwiftOperators-Swift.h"
+export *
+}

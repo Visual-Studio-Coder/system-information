@@ -1,0 +1,25 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "bdd3fe87277c9f7180ef3b5d63d0e9c4aafcdd4ee9cea0b0567cf65c028ec5b5"
+build_start_time: [1742159144, 354263000]
+build_end_time: [1742159147, 802098000]
+inputs:
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/Operator.swift"
+  : [1742158267, 887458769]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorError+Diagnostics.swift"
+  : [1742158267, 887545935]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorError.swift"
+  : [1742158267, 887614476]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Defaults.swift"
+  : [1742158267, 887735475]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Folding.swift"
+  : [1742158267, 887851891]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Semantics.swift"
+  : [1742158267, 888058097]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable.swift"
+  : [1742158267, 888228804]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/PrecedenceGraph.swift"
+  : [1742158267, 888404427]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/PrecedenceGroup.swift"
+  : [1742158267, 888575301]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/SyntaxSynthesis.swift"
+  : [1742158267, 889033130]

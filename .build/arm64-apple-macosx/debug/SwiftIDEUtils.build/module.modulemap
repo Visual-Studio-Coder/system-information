@@ -1,0 +1,4 @@
+module SwiftIDEUtils {
+    header "/Users/vaibhavsatishkumar/system-information/.build/arm64-apple-macosx/debug/SwiftIDEUtils.build/SwiftIDEUtils-Swift.h"
+    requires objc
+}

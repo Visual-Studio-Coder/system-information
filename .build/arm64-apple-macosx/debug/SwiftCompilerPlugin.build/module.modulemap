@@ -1,0 +1,4 @@
+module SwiftCompilerPlugin {
+    header "/Users/vaibhavsatishkumar/system-information/.build/arm64-apple-macosx/debug/SwiftCompilerPlugin.build/SwiftCompilerPlugin-Swift.h"
+    requires objc
+}

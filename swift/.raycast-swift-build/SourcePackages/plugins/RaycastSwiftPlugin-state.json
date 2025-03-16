@@ -1,0 +1,43 @@
+{
+  "commandLine" : [
+    "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+    "-L",
+    "/Applications/Xcode.app/Contents/SharedFrameworks/SwiftPM.framework/SharedSupport/PluginAPI",
+    "-lPackagePlugin",
+    "-Xlinker",
+    "-rpath",
+    "-Xlinker",
+    "/Applications/Xcode.app/Contents/SharedFrameworks/SwiftPM.framework/SharedSupport/PluginAPI",
+    "-target",
+    "arm64-apple-macos13.0",
+    "-sdk",
+    "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+    "-g",
+    "-swift-version",
+    "5",
+    "-package-description-version",
+    "5.9.0",
+    "-I",
+    "/Applications/Xcode.app/Contents/SharedFrameworks/SwiftPM.framework/SharedSupport/PluginAPI",
+    "-sdk",
+    "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+    "-parse-as-library",
+    "-Xfrontend",
+    "-serialize-diagnostics-path",
+    "-Xfrontend",
+    "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/plugins/RaycastSwiftPlugin.dia",
+    "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftPlugin/Interface/Interface.swift",
+    "-o",
+    "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/plugins/RaycastSwiftPlugin"
+  ],
+  "environment" : {
+
+  },
+  "inputHash" : "5425ea4b3921a026ef776d508dd93fd8af06a95a3d381dcfde6d2f80c41a9fd2",
+  "output" : "",
+  "result" : {
+    "exit" : {
+      "code" : 0
+    }
+  }
+}

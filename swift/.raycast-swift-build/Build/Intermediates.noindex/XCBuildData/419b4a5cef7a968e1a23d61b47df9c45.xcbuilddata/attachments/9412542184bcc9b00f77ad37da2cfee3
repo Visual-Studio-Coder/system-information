@@ -1,0 +1,80 @@
+{
+  "" : {
+    "const-values" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SwiftSyntaxBuilder-master.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SwiftSyntaxBuilder-master.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SwiftSyntaxBuilder-master.dia",
+    "emit-module-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SwiftSyntaxBuilder-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SwiftSyntaxBuilder-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SwiftSyntaxBuilder-master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/ConvenienceInitializers.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ConvenienceInitializers.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ConvenienceInitializers.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ConvenienceInitializers.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/DeclSyntaxParseable.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/DeclSyntaxParseable.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/DeclSyntaxParseable.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/DeclSyntaxParseable.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/Indenter.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/Indenter.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/Indenter.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/Indenter.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/ResultBuilderExtensions.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ResultBuilderExtensions.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ResultBuilderExtensions.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ResultBuilderExtensions.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/SwiftSyntaxBuilderCompatibility.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SwiftSyntaxBuilderCompatibility.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SwiftSyntaxBuilderCompatibility.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SwiftSyntaxBuilderCompatibility.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/Syntax+StringInterpolation.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/Syntax+StringInterpolation.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/Syntax+StringInterpolation.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/Syntax+StringInterpolation.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/SyntaxNodeWithBody.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SyntaxNodeWithBody.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SyntaxNodeWithBody.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SyntaxNodeWithBody.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/SyntaxParsable+ExpressibleByStringInterpolation.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SyntaxParsable+ExpressibleByStringInterpolation.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SyntaxParsable+ExpressibleByStringInterpolation.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SyntaxParsable+ExpressibleByStringInterpolation.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/ValidatingSyntaxNodes.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ValidatingSyntaxNodes.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ValidatingSyntaxNodes.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ValidatingSyntaxNodes.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/WithTrailingCommaSyntax+EnsuringTrailingComma.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/WithTrailingCommaSyntax+EnsuringTrailingComma.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/WithTrailingCommaSyntax+EnsuringTrailingComma.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/WithTrailingCommaSyntax+EnsuringTrailingComma.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/generated/BuildableNodes.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/BuildableNodes.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/BuildableNodes.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/BuildableNodes.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/generated/RenamedChildrenBuilderCompatibility.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/RenamedChildrenBuilderCompatibility.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/RenamedChildrenBuilderCompatibility.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/RenamedChildrenBuilderCompatibility.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/generated/ResultBuilders.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ResultBuilders.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ResultBuilders.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/ResultBuilders.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/generated/SyntaxExpressibleByStringInterpolationConformances.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SyntaxExpressibleByStringInterpolationConformances.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SyntaxExpressibleByStringInterpolationConformances.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftSyntaxBuilder.build/Objects-normal/arm64/SyntaxExpressibleByStringInterpolationConformances.o"
+  }
+}

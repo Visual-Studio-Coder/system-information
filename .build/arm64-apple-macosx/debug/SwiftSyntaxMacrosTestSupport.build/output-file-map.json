@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/arm64-apple-macosx/debug/SwiftSyntaxMacrosTestSupport.build/master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftSyntaxMacrosTestSupport/Assertions.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/arm64-apple-macosx/debug/SwiftSyntaxMacrosTestSupport.build/Assertions.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/arm64-apple-macosx/debug/SwiftSyntaxMacrosTestSupport.build/Assertions.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/arm64-apple-macosx/debug/SwiftSyntaxMacrosTestSupport.build/Assertions~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/arm64-apple-macosx/debug/SwiftSyntaxMacrosTestSupport.build/Assertions.swiftdeps"
+  }
+}

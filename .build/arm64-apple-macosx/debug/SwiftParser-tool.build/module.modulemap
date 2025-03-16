@@ -1,0 +1,4 @@
+module SwiftParser {
+    header "/Users/vaibhavsatishkumar/system-information/.build/arm64-apple-macosx/debug/SwiftParser-tool.build/SwiftParser-Swift.h"
+    requires objc
+}

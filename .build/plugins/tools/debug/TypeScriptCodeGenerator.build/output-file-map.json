@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/TypeScriptPlugin/Implementation/Arguments.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/Arguments.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/Arguments.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/Arguments~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/Arguments.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/TypeScriptPlugin/Implementation/ExportableFunction.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/ExportableFunction.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/ExportableFunction.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/ExportableFunction~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/ExportableFunction.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/TypeScriptPlugin/Implementation/SyntaxParser.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/SyntaxParser.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/SyntaxParser.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/SyntaxParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/SyntaxParser.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/TypeScriptPlugin/Implementation/TypeScriptCodeGenerator.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/TypeScriptCodeGenerator.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/TypeScriptCodeGenerator.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/TypeScriptCodeGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/TypeScriptCodeGenerator.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/TypeScriptPlugin/Implementation/URL+Additions.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/URL+Additions.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/URL+Additions.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/URL+Additions~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/TypeScriptCodeGenerator.build/URL+Additions.swiftdeps"
+  }
+}

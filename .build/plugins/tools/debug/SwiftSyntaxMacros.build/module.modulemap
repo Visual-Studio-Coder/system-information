@@ -1,0 +1,4 @@
+module SwiftSyntaxMacros {
+    header "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftSyntaxMacros.build/SwiftSyntaxMacros-Swift.h"
+    requires objc
+}

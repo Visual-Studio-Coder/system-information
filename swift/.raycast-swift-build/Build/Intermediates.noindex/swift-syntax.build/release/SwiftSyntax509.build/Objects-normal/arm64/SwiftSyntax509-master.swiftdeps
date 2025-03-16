@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "1d9a0d4146aec426c423b655c18ca51b5881af717fe9f87bf12fc727d2766ebd"
+build_start_time: [1742158814, 11131000]
+build_end_time: [1742158814, 252975000]
+inputs:
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax509/Empty.swift"
+  : [1742158267, 949138650]

@@ -1,0 +1,4 @@
+module SwiftParserDiagnostics {
+    header "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftParserDiagnostics.build/SwiftParserDiagnostics-Swift.h"
+    requires objc
+}

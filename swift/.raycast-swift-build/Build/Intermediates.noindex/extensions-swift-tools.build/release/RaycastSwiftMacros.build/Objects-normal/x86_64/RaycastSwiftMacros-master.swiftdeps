@@ -1,0 +1,17 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "11be4aa9cb250e5b9145268c0add24bed8f66e0e7fbc5389e5f8ce371f389192"
+build_start_time: [1742159168, 20523000]
+build_end_time: [1742159168, 783067000]
+inputs:
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftMacros/Interface/API.swift"
+  : [1742158267, 777765838]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftMacros/Interface/_Ray.swift"
+  : [1742158267, 777821921]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftMacros/Interface/_RayArguments.swift"
+  : [1742158267, 777879004]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftMacros/Interface/_RayCallback.swift"
+  : [1742158267, 777936670]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftMacros/Interface/_RayError.swift"
+  : [1742158267, 777996169]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftMacros/Interface/_RayProxy.swift"
+  : [1742158267, 778055169]

@@ -1,0 +1,45 @@
+{
+  "" : {
+    "const-values" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master.dia",
+    "emit-module-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Convenience.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Convenience.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Convenience.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Convenience.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Diagnostic.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Diagnostic.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Diagnostic.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Diagnostic.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticsFormatter.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/DiagnosticsFormatter.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/DiagnosticsFormatter.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/DiagnosticsFormatter.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/FixIt.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/FixIt.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/FixIt.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/FixIt.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/GroupedDiagnostics.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/GroupedDiagnostics.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/GroupedDiagnostics.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/GroupedDiagnostics.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Message.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Message.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Message.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Message.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Note.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Note.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Note.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftDiagnostics.build/Objects-normal/x86_64/Note.o"
+  }
+}

@@ -1,0 +1,19 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "4bd80843e690b1cf3f78e0c38a6b240784aea061ff05ae027b923f6723878ec5"
+build_start_time: [1742159117, 991304000]
+build_end_time: [1742159120, 239646000]
+inputs:
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Convenience.swift"
+  : [1742158267, 886134198]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Diagnostic.swift"
+  : [1742158267, 886193739]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticsFormatter.swift"
+  : [1742158267, 886293114]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/FixIt.swift"
+  : [1742158267, 886367530]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/GroupedDiagnostics.swift"
+  : [1742158267, 886536028]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Message.swift"
+  : [1742158267, 886608819]
+  ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Note.swift"
+  : [1742158267, 886676277]

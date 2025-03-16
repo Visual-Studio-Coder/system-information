@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/CompilerPluginMessageHandler.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/CompilerPluginMessageHandler.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/CompilerPluginMessageHandler.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/CompilerPluginMessageHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/CompilerPluginMessageHandler.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Diagnostics.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/Diagnostics.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/Diagnostics.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/Diagnostics~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/Diagnostics.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Macros.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/Macros.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/Macros.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/Macros~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/Macros.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMacroExpansionContext.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMacroExpansionContext.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMacroExpansionContext.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMacroExpansionContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMacroExpansionContext.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessageCompatibility.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMessageCompatibility.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMessageCompatibility.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMessageCompatibility~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMessageCompatibility.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessages.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMessages.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMessages.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMessages~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCompilerPluginMessageHandling-tool.build/PluginMessages.swiftdeps"
+  }
+}

@@ -1,0 +1,56 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vaibhavsatishkumar/system-information/.build/plugins/cache/RaycastSwiftPlugin'
+relocations:
+  - { offset: 0x91, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV19createBuildCommands7context6targetSay07PackageC07CommandOGAG0C7ContextV_AG6Target_ptYaKF', symObjAddr: 0x0, symBinAddr: 0x100000DD8, symSize: 0x1F0 }
+  - { offset: 0x1E6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1CC4, symBinAddr: 0x100002A9C, symSize: 0x88 }
+  - { offset: 0x210, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x1224, symBinAddr: 0x100001FFC, symSize: 0x6C }
+  - { offset: 0x223, size: 0x8, addend: 0x0, symName: '_$s13PackagePlugin6Target_pWOc', symObjAddr: 0x1290, symBinAddr: 0x100002068, symSize: 0x4C }
+  - { offset: 0x236, size: 0x8, addend: 0x0, symName: '_$s13PackagePlugin23SwiftSourceModuleTargetVSgWOh', symObjAddr: 0x12DC, symBinAddr: 0x1000020B4, symSize: 0x70 }
+  - { offset: 0x249, size: 0x8, addend: 0x0, symName: ___swift_project_boxed_opaque_existential_1, symObjAddr: 0x134C, symBinAddr: 0x100002124, symSize: 0x54 }
+  - { offset: 0x25C, size: 0x8, addend: 0x0, symName: '_$sSSWOh', symObjAddr: 0x13A0, symBinAddr: 0x100002178, symSize: 0x28 }
+  - { offset: 0x26F, size: 0x8, addend: 0x0, symName: '_$ss26DefaultStringInterpolationVWOh', symObjAddr: 0x13C8, symBinAddr: 0x1000021A0, symSize: 0x28 }
+  - { offset: 0x282, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV19createBuildCommands7context6targetSay07PackageC07CommandOGAG0C7ContextV_AG6Target_ptYaKFSbAG4FileVXEfU_TA', symObjAddr: 0x16AC, symBinAddr: 0x100002484, symSize: 0x2C }
+  - { offset: 0x295, size: 0x8, addend: 0x0, symName: '_$s13PackagePlugin8FileListVACSTAAWl', symObjAddr: 0x16D8, symBinAddr: 0x1000024B0, symSize: 0x70 }
+  - { offset: 0x2C6, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceVAC07PackageC00C0AAWl', symObjAddr: 0x19E4, symBinAddr: 0x1000027BC, symSize: 0x6C }
+  - { offset: 0x2D9, size: 0x8, addend: 0x0, symName: '_$sS2cMScAsWl', symObjAddr: 0x1A50, symBinAddr: 0x100002828, symSize: 0x70 }
+  - { offset: 0x30A, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TR', symObjAddr: 0x1D4C, symBinAddr: 0x100002B24, symSize: 0x78 }
+  - { offset: 0x340, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TRTQ0_', symObjAddr: 0x1DC4, symBinAddr: 0x100002B9C, symSize: 0x64 }
+  - { offset: 0x39C, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TRTA', symObjAddr: 0x1E50, symBinAddr: 0x100002C28, symSize: 0x9C }
+  - { offset: 0x3C9, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TRTATQ0_', symObjAddr: 0x1EEC, symBinAddr: 0x100002CC4, symSize: 0x60 }
+  - { offset: 0x416, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV07PackageC009BuildToolC0AaD0C0PWb', symObjAddr: 0x1F4C, symBinAddr: 0x100002D24, symSize: 0x14 }
+  - { offset: 0x429, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceVMa', symObjAddr: 0x1F60, symBinAddr: 0x100002D38, symSize: 0x14 }
+  - { offset: 0x43C, size: 0x8, addend: 0x0, symName: '_$sSa12_endMutationyyF', symObjAddr: 0x1F74, symBinAddr: 0x100002D4C, symSize: 0xC }
+  - { offset: 0x453, size: 0x8, addend: 0x0, symName: '_$sSa22_allocateUninitializedySayxG_SpyxGtSiFZSS_s23CustomStringConvertible_pt_Tgmq5', symObjAddr: 0x1F80, symBinAddr: 0x100002D58, symSize: 0x98 }
+  - { offset: 0x47E, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_s23CustomStringConvertible_pTgmq5', symObjAddr: 0x2018, symBinAddr: 0x100002DF0, symSize: 0x22C }
+  - { offset: 0x4CF, size: 0x8, addend: 0x0, symName: '_$sSa22_allocateUninitializedySayxG_SpyxGtSiFZ13PackagePlugin4PathV_Tgmq5', symObjAddr: 0x2244, symBinAddr: 0x10000301C, symSize: 0xB8 }
+  - { offset: 0x4FA, size: 0x8, addend: 0x0, symName: '_$sSa5countSivgSS_s23CustomStringConvertible_pt_Tgq5', symObjAddr: 0x22FC, symBinAddr: 0x1000030D4, symSize: 0x14 }
+  - { offset: 0x511, size: 0x8, addend: 0x0, symName: '_$sSa9_getCountSiyFSS_s23CustomStringConvertible_pt_Tgq5', symObjAddr: 0x2310, symBinAddr: 0x1000030E8, symSize: 0x8 }
+  - { offset: 0x528, size: 0x8, addend: 0x0, symName: '_$sSa29_hoistableIsNativeTypeCheckedSbyFSS_s23CustomStringConvertible_pt_Tgq5', symObjAddr: 0x2318, symBinAddr: 0x1000030F0, symSize: 0xC }
+  - { offset: 0x53F, size: 0x8, addend: 0x0, symName: '_$sSa15_checkSubscript_20wasNativeTypeCheckeds16_DependenceTokenVSi_SbtFSS_s23CustomStringConvertible_pt_Tgq5', symObjAddr: 0x2324, symBinAddr: 0x1000030FC, symSize: 0x5C }
+  - { offset: 0x56A, size: 0x8, addend: 0x0, symName: '_$sSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFSS_s23CustomStringConvertible_pt_Tgq5', symObjAddr: 0x2380, symBinAddr: 0x100003158, symSize: 0x90 }
+  - { offset: 0x595, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tgq5', symObjAddr: 0x2410, symBinAddr: 0x1000031E8, symSize: 0x80 }
+  - { offset: 0x5AC, size: 0x8, addend: 0x0, symName: '_$ss23CustomStringConvertible_pWOb', symObjAddr: 0x2490, symBinAddr: 0x100003268, symSize: 0x38 }
+  - { offset: 0x5BF, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSS_s23CustomStringConvertible_pt_Tgq5', symObjAddr: 0x24C8, symBinAddr: 0x1000032A0, symSize: 0x1F8 }
+  - { offset: 0x5EA, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tgq5', symObjAddr: 0x26C0, symBinAddr: 0x100003498, symSize: 0x21C }
+  - { offset: 0x601, size: 0x8, addend: 0x0, symName: '_$sSS_s23CustomStringConvertible_ptWOc', symObjAddr: 0x28DC, symBinAddr: 0x1000036B4, symSize: 0x70 }
+  - { offset: 0x614, size: 0x8, addend: 0x0, symName: '_$sSS12_createEmpty19withInitialCapacitySSSi_tFZ', symObjAddr: 0x294C, symBinAddr: 0x100003724, symSize: 0x78 }
+  - { offset: 0x62B, size: 0x8, addend: 0x0, symName: '_$sSS_s23CustomStringConvertible_ptWOh', symObjAddr: 0x29C4, symBinAddr: 0x10000379C, symSize: 0x34 }
+  - { offset: 0x63E, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_1, symObjAddr: 0x29F8, symBinAddr: 0x1000037D0, symSize: 0x68 }
+  - { offset: 0x66C, size: 0x8, addend: 0x0, symName: '_$ss27_finalizeUninitializedArrayySayxGABnlF', symObjAddr: 0x1748, symBinAddr: 0x100002520, symSize: 0x40 }
+  - { offset: 0x6E4, size: 0x8, addend: 0x0, symName: '_$s13PackagePlugin7CommandO05buildC011displayName10executable9arguments11environment10inputFiles06outputK0ACSSSg_AA4PathVSays23CustomStringConvertible_pGSDySSsAN_pGSayAMGAQtFZfA2_', symObjAddr: 0x1788, symBinAddr: 0x100002560, symSize: 0x1C }
+  - { offset: 0x6FF, size: 0x8, addend: 0x0, symName: '_$s13PackagePlugin7CommandO05buildC011displayName10executable9arguments11environment10inputFiles06outputK0ACSSSg_AA4PathVSays23CustomStringConvertible_pGSDySSsAN_pGSayAMGAQtFZfA3_', symObjAddr: 0x17A4, symBinAddr: 0x10000257C, symSize: 0x18 }
+  - { offset: 0x73C, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV19createBuildCommands7context6targetSay07PackageC07CommandOGAG0C7ContextV_AG6Target_ptYaKF', symObjAddr: 0x0, symBinAddr: 0x100000DD8, symSize: 0x1F0 }
+  - { offset: 0x83B, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV19createBuildCommands7context6targetSay07PackageC07CommandOGAG0C7ContextV_AG6Target_ptYaKFSbAG4FileVXEfU_', symObjAddr: 0x13F0, symBinAddr: 0x1000021C8, symSize: 0x2BC }
+  - { offset: 0x878, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV19createBuildCommands7context6targetSay07PackageC07CommandOGAG0C7ContextV_AG6Target_ptYaKFTY0_', symObjAddr: 0x1F0, symBinAddr: 0x100000FC8, symSize: 0x1034 }
+  - { offset: 0x998, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV5$mainyyYaKFZ', symObjAddr: 0x17BC, symBinAddr: 0x100002594, symSize: 0xA0 }
+  - { offset: 0x9C8, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV5$mainyyYaKFZTQ0_', symObjAddr: 0x185C, symBinAddr: 0x100002634, symSize: 0xF4 }
+  - { offset: 0xA33, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV5$mainyyYaKFZTY1_', symObjAddr: 0x1950, symBinAddr: 0x100002728, symSize: 0x44 }
+  - { offset: 0xA64, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV5$mainyyYaKFZTY2_', symObjAddr: 0x1994, symBinAddr: 0x10000276C, symSize: 0x50 }
+  - { offset: 0xA95, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceVACycfC', symObjAddr: 0x1AC0, symBinAddr: 0x100002898, symSize: 0x4 }
+  - { offset: 0xAB4, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV07PackageC009BuildToolC0AadEP06createG8Commands7context6targetSayAD7CommandOGAD0C7ContextV_AD6Target_ptYaKFTW', symObjAddr: 0x1AC4, symBinAddr: 0x10000289C, symSize: 0x7C }
+  - { offset: 0xADB, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV07PackageC009BuildToolC0AadEP06createG8Commands7context6targetSayAD7CommandOGAD0C7ContextV_AD6Target_ptYaKFTWTQ0_', symObjAddr: 0x1B40, symBinAddr: 0x100002918, symSize: 0x98 }
+  - { offset: 0xB41, size: 0x8, addend: 0x0, symName: '_$s18RaycastSwiftPlugin0B13CodeInterfaceV07PackageC00C0AadEPxycfCTW', symObjAddr: 0x1BD8, symBinAddr: 0x1000029B0, symSize: 0x14 }
+  - { offset: 0xB54, size: 0x8, addend: 0x0, symName: _async_Main, symObjAddr: 0x1BEC, symBinAddr: 0x1000029C4, symSize: 0x6C }
+  - { offset: 0xB7C, size: 0x8, addend: 0x0, symName: _async_MainTQ0_, symObjAddr: 0x1C58, symBinAddr: 0x100002A30, symSize: 0x6C }
+...

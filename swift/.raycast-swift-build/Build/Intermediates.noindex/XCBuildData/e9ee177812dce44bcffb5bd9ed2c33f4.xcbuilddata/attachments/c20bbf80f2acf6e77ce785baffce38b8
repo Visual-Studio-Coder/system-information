@@ -1,0 +1,4 @@
+module SwiftSyntaxMacroExpansion {
+header "SwiftSyntaxMacroExpansion-Swift.h"
+export *
+}

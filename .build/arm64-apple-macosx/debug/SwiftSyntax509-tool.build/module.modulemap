@@ -1,0 +1,4 @@
+module SwiftSyntax509 {
+    header "/Users/vaibhavsatishkumar/system-information/.build/arm64-apple-macosx/debug/SwiftSyntax509-tool.build/SwiftSyntax509-Swift.h"
+    requires objc
+}

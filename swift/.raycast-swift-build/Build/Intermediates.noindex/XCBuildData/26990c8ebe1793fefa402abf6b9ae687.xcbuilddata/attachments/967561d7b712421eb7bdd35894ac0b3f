@@ -1,0 +1,20 @@
+{
+  "" : {
+    "const-values" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/SwiftCodeGenerator-master.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/SwiftCodeGenerator-master.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/SwiftCodeGenerator-master.dia",
+    "emit-module-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/SwiftCodeGenerator-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/SwiftCodeGenerator-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/SwiftCodeGenerator-master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftPlugin/Implementation/Arguments.swift" : {
+    "index-unit-output-path" : "/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/Arguments.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/Arguments.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/Arguments.o"
+  },
+  "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftPlugin/Implementation/SwiftCodeGenerator.swift" : {
+    "index-unit-output-path" : "/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/SwiftCodeGenerator.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/SwiftCodeGenerator.bc",
+    "object" : "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/SwiftCodeGenerator.build/Objects-normal/arm64/SwiftCodeGenerator.o"
+  }
+}

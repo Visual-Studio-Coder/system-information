@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftRefactor/AddSeparatorsToIntegerLiteral.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/AddSeparatorsToIntegerLiteral.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/AddSeparatorsToIntegerLiteral.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/AddSeparatorsToIntegerLiteral~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/AddSeparatorsToIntegerLiteral.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftRefactor/CallToTrailingClosures.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/CallToTrailingClosures.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/CallToTrailingClosures.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/CallToTrailingClosures~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/CallToTrailingClosures.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftRefactor/ExpandEditorPlaceholder.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/ExpandEditorPlaceholder.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/ExpandEditorPlaceholder.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/ExpandEditorPlaceholder~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/ExpandEditorPlaceholder.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftRefactor/FormatRawStringLiteral.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/FormatRawStringLiteral.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/FormatRawStringLiteral.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/FormatRawStringLiteral~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/FormatRawStringLiteral.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftRefactor/IntegerLiteralUtilities.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/IntegerLiteralUtilities.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/IntegerLiteralUtilities.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/IntegerLiteralUtilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/IntegerLiteralUtilities.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftRefactor/MigrateToNewIfLetSyntax.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/MigrateToNewIfLetSyntax.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/MigrateToNewIfLetSyntax.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/MigrateToNewIfLetSyntax~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/MigrateToNewIfLetSyntax.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftRefactor/OpaqueParameterToGeneric.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/OpaqueParameterToGeneric.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/OpaqueParameterToGeneric.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/OpaqueParameterToGeneric~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/OpaqueParameterToGeneric.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftRefactor/RefactoringProvider.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/RefactoringProvider.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/RefactoringProvider.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/RefactoringProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/RefactoringProvider.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/swift-syntax/Sources/SwiftRefactor/RemoveSeparatorsFromIntegerLiteral.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/RemoveSeparatorsFromIntegerLiteral.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/RemoveSeparatorsFromIntegerLiteral.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/RemoveSeparatorsFromIntegerLiteral~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftRefactor.build/RemoveSeparatorsFromIntegerLiteral.swiftdeps"
+  }
+}

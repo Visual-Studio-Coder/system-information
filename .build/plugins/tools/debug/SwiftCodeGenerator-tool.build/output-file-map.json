@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCodeGenerator-tool.build/master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/SwiftPlugin/Implementation/Arguments.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCodeGenerator-tool.build/Arguments.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCodeGenerator-tool.build/Arguments.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCodeGenerator-tool.build/Arguments~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCodeGenerator-tool.build/Arguments.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/system-information/.build/checkouts/extensions-swift-tools/SwiftPlugin/Implementation/SwiftCodeGenerator.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCodeGenerator-tool.build/SwiftCodeGenerator.d",
+    "object": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCodeGenerator-tool.build/SwiftCodeGenerator.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCodeGenerator-tool.build/SwiftCodeGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/system-information/.build/plugins/tools/debug/SwiftCodeGenerator-tool.build/SwiftCodeGenerator.swiftdeps"
+  }
+}
