@@ -1,7 +1,7 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
 options: "f3784014b21b3d23e15ee987d03dfd8423ede81c91cc2701f9a19f5816e35aa4"
-build_start_time: [1742159932, 455903000]
-build_end_time: [1742160119, 552066000]
+build_start_time: [1742240494, 939090000]
+build_end_time: [1742240645, 82462000]
 inputs:
   ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/AbsolutePosition.swift"
   : [1742158267, 905530017]

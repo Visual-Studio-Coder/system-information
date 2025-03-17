@@ -1,7 +1,7 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
 options: "216edd0968b92a4e0114a0a98aef747924208f8baf204d052b2e420b3ca034a6"
-build_start_time: [1742160146, 532391000]
-build_end_time: [1742160151, 760161000]
+build_start_time: [1742240667, 685447000]
+build_end_time: [1742240672, 247975000]
 inputs:
   ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxBuilder/ConvenienceInitializers.swift"
   : [1742158267, 949356731]

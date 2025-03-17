@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>DE75B6A7-F62F-4D28-B5DC-4DE05C058ED4</key>
+		<key>4E69D3AE-7B2C-4C17-A193-4F5166171774</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,13 +15,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DE75B6A7-F62F-4D28-B5DC-4DE05C058ED4.xcactivitylog</string>
+			<string>4E69D3AE-7B2C-4C17-A193-4F5166171774.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
@@ -29,7 +29,7 @@
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
+				<integer>2</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>swift</string>
@@ -38,15 +38,15 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Building workspace swift with scheme system-information and configuration release</string>
+			<string>Building workspace swift with scheme system-information and configuration debug</string>
 			<key>timeStartedRecording</key>
-			<real>763851612.24536002</real>
+			<real>763932984.72899699</real>
 			<key>timeStoppedRecording</key>
-			<real>763851650.86913598</real>
+			<real>763932990.55591702</real>
 			<key>title</key>
-			<string>Building workspace swift with scheme system-information and configuration release</string>
+			<string>Building workspace swift with scheme system-information and configuration debug</string>
 			<key>uniqueIdentifier</key>
-			<string>DE75B6A7-F62F-4D28-B5DC-4DE05C058ED4</string>
+			<string>4E69D3AE-7B2C-4C17-A193-4F5166171774</string>
 		</dict>
 	</dict>
 </dict>

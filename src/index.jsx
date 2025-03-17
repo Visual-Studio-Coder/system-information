@@ -10,6 +10,7 @@ import { getStorageInfo } from "swift:../swift";
 
 export default function Command() {
   const [storageInfo, setStorageInfo] = useState("");
+  const [storageTooltip, setStorageTooltip] = useState("");
   const [serialNumber, setSerialNumber] = useState("");
   const [networkDevices, setNetworkDevices] = useState([]);
   const [processes, setProcesses] = useState([]);
@@ -34,11 +35,13 @@ export default function Command() {
         const totalFormatted = info.total.toFixed(2) + " GB";
         const usedFormatted = info.used.toFixed(2) + " GB";
         const freeFormatted = info.free.toFixed(2) + " GB";
-        setStorageInfo(`${usedFormatted} used of ${totalFormatted} (${freeFormatted} available)`);
+        setStorageInfo(`${usedFormatted} used of ${totalFormatted}`);
+        setStorageTooltip(`${freeFormatted} available`);
       })
       .catch((error) => {
         console.error("Failed to get storage info:", error);
         setStorageInfo("Failed to retrieve storage information");
+        setStorageTooltip("");
       });
 
     exec("/usr/sbin/system_profiler SPHardwareDataType", (error, stdout, stderr) => {
@@ -125,6 +128,21 @@ export default function Command() {
           }
         />
       </List.Section>
+      <List.Section title="Storage">
+        <List.Item
+          icon={Icon.HardDrive}
+          title="Macintosh HD"
+          accessories={[{ text: storageInfo, tooltip: storageTooltip }]}
+          actions={
+            <ActionPanel>
+              <Action.Open
+                target="x-apple.systempreferences:com.apple.settings.Storage"
+                title="Open Storage Settings"
+              />
+            </ActionPanel>
+          }
+        />
+      </List.Section>
       <List.Section title="macOS">
         <List.Item
           icon={releaseImage()}
@@ -147,21 +165,6 @@ export default function Command() {
           actions={
             <ActionPanel>
               <Action.CopyToClipboard title="Copy Kernel Version" content={os.version()} />
-            </ActionPanel>
-          }
-        />
-      </List.Section>
-      <List.Section title="Storage">
-        <List.Item
-          icon={Icon.HardDrive}
-          title="Macintosh HD"
-          accessories={[{ text: storageInfo, tooltip: "Storage information from native Swift API" }]}
-          actions={
-            <ActionPanel>
-              <Action.Open
-                target="x-apple.systempreferences:com.apple.settings.Storage"
-                title="Open Storage Settings"
-              />
             </ActionPanel>
           }
         />

@@ -1,7 +1,7 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
 options: "7b69251212895898a273e7a105310ddfdf7b9877441cfc2be336eee4d8d5c8c5"
-build_start_time: [1742160153, 587080000]
-build_end_time: [1742160155, 531816000]
+build_start_time: [1742240672, 550421000]
+build_end_time: [1742240674, 85422000]
 inputs:
   ? "/Users/vaibhavsatishkumar/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacroExpansion/BasicMacroExpansionContext.swift"
   : [1742158267, 952721825]
