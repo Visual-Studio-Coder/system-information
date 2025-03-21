@@ -8,12 +8,21 @@
   "contributors": [
     "nagauta"
   ],
-  "pastContributors": [
-    "air-rn"
-  ],
   "categories": [
     "Developer Tools",
     "Productivity"
+  ],
+  "keywords": [
+    "system",
+    "information",
+    "macOS",
+    "tools",
+    "productivity",
+    "storage",
+    "network",
+    "processes",
+    "system information",
+    "system info"
   ],
   "license": "MIT",
   "commands": [
