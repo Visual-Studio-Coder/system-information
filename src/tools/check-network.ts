@@ -1,4 +1,3 @@
-import { Tool } from "@raycast/api";
 import os from "os";
 
 interface NetworkDevice {

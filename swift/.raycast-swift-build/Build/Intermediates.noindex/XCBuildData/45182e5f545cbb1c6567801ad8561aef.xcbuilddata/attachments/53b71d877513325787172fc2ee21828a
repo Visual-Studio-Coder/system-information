@@ -1,0 +1,35 @@
+{
+  "" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/TypeScriptCodeGenerator-master.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/TypeScriptCodeGenerator-master.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/TypeScriptCodeGenerator-master.dia",
+    "emit-module-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/TypeScriptCodeGenerator-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/TypeScriptCodeGenerator-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/TypeScriptCodeGenerator-master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/TypeScriptPlugin/Implementation/Arguments.swift" : {
+    "index-unit-output-path" : "/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/Arguments.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/Arguments.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/Arguments.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/TypeScriptPlugin/Implementation/ExportableFunction.swift" : {
+    "index-unit-output-path" : "/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/ExportableFunction.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/ExportableFunction.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/ExportableFunction.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/TypeScriptPlugin/Implementation/SyntaxParser.swift" : {
+    "index-unit-output-path" : "/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/SyntaxParser.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/SyntaxParser.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/SyntaxParser.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/TypeScriptPlugin/Implementation/TypeScriptCodeGenerator.swift" : {
+    "index-unit-output-path" : "/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/TypeScriptCodeGenerator.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/TypeScriptCodeGenerator.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/TypeScriptCodeGenerator.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/TypeScriptPlugin/Implementation/URL+Additions.swift" : {
+    "index-unit-output-path" : "/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/URL+Additions.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/URL+Additions.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/release/TypeScriptCodeGenerator.build/Objects-normal/x86_64/URL+Additions.o"
+  }
+}

@@ -1,4 +1,3 @@
-import { Tool } from "@raycast/api";
 import { getStorageInfo } from "swift:../../swift";
 
 interface StorageInfo {

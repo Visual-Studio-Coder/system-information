@@ -1,4 +1,3 @@
-import { Tool } from "@raycast/api";
 import si from "systeminformation";
 
 interface ProcessInfo {

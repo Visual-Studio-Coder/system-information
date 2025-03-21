@@ -1,4 +1,3 @@
-import { Tool } from "@raycast/api";
 import os from "os";
 import macosRelease from "macos-release";
 import { macOSVersion } from "macos-version";
