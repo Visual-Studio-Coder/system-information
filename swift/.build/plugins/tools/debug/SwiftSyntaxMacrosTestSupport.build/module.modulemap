@@ -1,0 +1,4 @@
+module SwiftSyntaxMacrosTestSupport {
+    header "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftSyntaxMacrosTestSupport.build/SwiftSyntaxMacrosTestSupport-Swift.h"
+    requires objc
+}

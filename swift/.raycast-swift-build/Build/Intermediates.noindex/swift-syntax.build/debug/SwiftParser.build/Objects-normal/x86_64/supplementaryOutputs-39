@@ -1,0 +1,30 @@
+"/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TopLevel.swift":
+  const-values: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TopLevel.swiftconstvalues"
+  swift-dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TopLevel.swiftdeps"
+  diagnostics: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TopLevel.dia"
+  object: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TopLevel.o"
+  dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TopLevel.d"
+"/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TokenSpec.swift":
+  diagnostics: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenSpec.dia"
+  dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenSpec.d"
+  const-values: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenSpec.swiftconstvalues"
+  object: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenSpec.o"
+  swift-dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenSpec.swiftdeps"
+"/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TriviaParser.swift":
+  object: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TriviaParser.o"
+  dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TriviaParser.d"
+  swift-dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TriviaParser.swiftdeps"
+  diagnostics: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TriviaParser.dia"
+  const-values: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TriviaParser.swiftconstvalues"
+"/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TokenPrecedence.swift":
+  dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenPrecedence.d"
+  diagnostics: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenPrecedence.dia"
+  swift-dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenPrecedence.swiftdeps"
+  const-values: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenPrecedence.swiftconstvalues"
+  object: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenPrecedence.o"
+"/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TokenSpecSet.swift":
+  dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenSpecSet.d"
+  swift-dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenSpecSet.swiftdeps"
+  diagnostics: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenSpecSet.dia"
+  const-values: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenSpecSet.swiftconstvalues"
+  object: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/x86_64/TokenSpecSet.o"

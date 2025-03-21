@@ -1,0 +1,30 @@
+"/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TriviaParser.swift":
+  const-values: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TriviaParser.swiftconstvalues"
+  object: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TriviaParser.o"
+  diagnostics: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TriviaParser.dia"
+  dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TriviaParser.d"
+  swift-dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TriviaParser.swiftdeps"
+"/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TopLevel.swift":
+  const-values: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TopLevel.swiftconstvalues"
+  object: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TopLevel.o"
+  swift-dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TopLevel.swiftdeps"
+  dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TopLevel.d"
+  diagnostics: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TopLevel.dia"
+"/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TokenPrecedence.swift":
+  object: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenPrecedence.o"
+  const-values: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenPrecedence.swiftconstvalues"
+  swift-dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenPrecedence.swiftdeps"
+  diagnostics: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenPrecedence.dia"
+  dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenPrecedence.d"
+"/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TokenSpec.swift":
+  diagnostics: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenSpec.dia"
+  swift-dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenSpec.swiftdeps"
+  object: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenSpec.o"
+  const-values: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenSpec.swiftconstvalues"
+  dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenSpec.d"
+"/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TokenSpecSet.swift":
+  const-values: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenSpecSet.swiftconstvalues"
+  swift-dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenSpecSet.swiftdeps"
+  dependencies: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenSpecSet.d"
+  object: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenSpecSet.o"
+  diagnostics: "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftParser.build/Objects-normal/arm64/TokenSpecSet.dia"

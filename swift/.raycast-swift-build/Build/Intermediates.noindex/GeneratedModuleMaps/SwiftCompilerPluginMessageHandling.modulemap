@@ -1,0 +1,4 @@
+module SwiftCompilerPluginMessageHandling {
+header "SwiftCompilerPluginMessageHandling-Swift.h"
+export *
+}

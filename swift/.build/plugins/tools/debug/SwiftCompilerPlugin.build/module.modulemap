@@ -1,0 +1,4 @@
+module SwiftCompilerPlugin {
+    header "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftCompilerPlugin.build/SwiftCompilerPlugin-Swift.h"
+    requires objc
+}

@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/swift-syntax/Sources/SwiftBasicFormat/BasicFormat.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/BasicFormat.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/BasicFormat.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/BasicFormat~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/BasicFormat.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/swift-syntax/Sources/SwiftBasicFormat/Syntax+Extensions.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/Syntax+Extensions.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/Syntax+Extensions.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/Syntax+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/Syntax+Extensions.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/swift-syntax/Sources/SwiftBasicFormat/SyntaxProtocol+Formatted.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/SyntaxProtocol+Formatted.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/SyntaxProtocol+Formatted.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/SyntaxProtocol+Formatted~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/SyntaxProtocol+Formatted.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/swift-syntax/Sources/SwiftBasicFormat/Trivia+FormatExtensions.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/Trivia+FormatExtensions.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/Trivia+FormatExtensions.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/Trivia+FormatExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat-tool.build/Trivia+FormatExtensions.swiftdeps"
+  }
+}

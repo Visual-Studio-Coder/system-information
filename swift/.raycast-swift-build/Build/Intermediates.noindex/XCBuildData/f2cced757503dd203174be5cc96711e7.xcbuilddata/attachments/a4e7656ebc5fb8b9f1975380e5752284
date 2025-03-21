@@ -1,0 +1,4 @@
+module SwiftSyntaxBuilder {
+header "SwiftSyntaxBuilder-Swift.h"
+export *
+}

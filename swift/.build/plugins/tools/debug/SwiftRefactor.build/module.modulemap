@@ -1,0 +1,4 @@
+module SwiftRefactor {
+    header "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftRefactor.build/SwiftRefactor-Swift.h"
+    requires objc
+}

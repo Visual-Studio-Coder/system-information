@@ -1,0 +1,4 @@
+module SwiftOperators {
+    header "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftOperators.build/SwiftOperators-Swift.h"
+    requires objc
+}

@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosImplementation-master.dia",
+    "emit-module-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosImplementation-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosImplementation-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosImplementation-master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftMacros/Implementation/MacrosVendor.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosVendor.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosVendor.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosVendor.dia",
+    "index-unit-output-path" : "/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosVendor.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosVendor.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosVendor.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosVendor.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/MacrosVendor~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/extensions-swift-tools/SwiftMacros/Implementation/RaycastMacro.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/RaycastMacro.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/RaycastMacro.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/RaycastMacro.dia",
+    "index-unit-output-path" : "/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/RaycastMacro.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/RaycastMacro.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/RaycastMacro.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/RaycastMacro.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/extensions-swift-tools.build/debug/MacrosImplementation.build/Objects-normal/arm64/RaycastMacro~partial.swiftmodule"
+  }
+}

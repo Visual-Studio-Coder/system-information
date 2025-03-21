@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/Convenience.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Convenience.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Convenience.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Convenience~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Convenience.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/Diagnostic.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Diagnostic.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Diagnostic.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Diagnostic~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Diagnostic.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticsFormatter.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/DiagnosticsFormatter.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/DiagnosticsFormatter.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/DiagnosticsFormatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/DiagnosticsFormatter.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/FixIt.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/FixIt.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/FixIt.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/FixIt~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/FixIt.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/GroupedDiagnostics.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/GroupedDiagnostics.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/GroupedDiagnostics.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/GroupedDiagnostics~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/GroupedDiagnostics.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/Message.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Message.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Message.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Message~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Message.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/Note.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Note.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Note.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Note~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics.build/Note.swiftdeps"
+  }
+}

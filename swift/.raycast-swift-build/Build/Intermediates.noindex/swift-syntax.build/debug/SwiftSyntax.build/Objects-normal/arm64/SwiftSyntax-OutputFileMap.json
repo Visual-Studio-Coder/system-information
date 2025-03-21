@@ -1,0 +1,508 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntax-master.dia",
+    "emit-module-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntax-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntax-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntax-master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/AbsolutePosition.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/AbsolutePosition.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/AbsolutePosition.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/AbsolutePosition.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/AbsolutePosition.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/AbsolutePosition.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/AbsolutePosition.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/AbsolutePosition.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/AbsolutePosition~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Assert.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Assert.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Assert.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Assert.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Assert.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Assert.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Assert.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Assert.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Assert~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/BumpPtrAllocator.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/BumpPtrAllocator.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/BumpPtrAllocator.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/BumpPtrAllocator.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/BumpPtrAllocator.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/BumpPtrAllocator.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/BumpPtrAllocator.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/BumpPtrAllocator.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/BumpPtrAllocator~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/CommonAncestor.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/CommonAncestor.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/CommonAncestor.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/CommonAncestor.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/CommonAncestor.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/CommonAncestor.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/CommonAncestor.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/CommonAncestor.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/CommonAncestor~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Convenience.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Convenience.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Convenience.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Convenience.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Convenience.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Convenience.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Convenience.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Convenience.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Convenience~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/MemoryLayout.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MemoryLayout.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MemoryLayout.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MemoryLayout.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MemoryLayout.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MemoryLayout.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MemoryLayout.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MemoryLayout.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MemoryLayout~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/MissingNodeInitializers.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MissingNodeInitializers.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MissingNodeInitializers.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MissingNodeInitializers.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MissingNodeInitializers.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MissingNodeInitializers.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MissingNodeInitializers.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MissingNodeInitializers.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/MissingNodeInitializers~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Raw/RawSyntax.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntax.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntax.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntax.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntax.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntax.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntax.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntax.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntax~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Raw/RawSyntaxLayoutView.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxLayoutView.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxLayoutView.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxLayoutView.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxLayoutView.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxLayoutView.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxLayoutView.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxLayoutView.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxLayoutView~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Raw/RawSyntaxNodeProtocol.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodeProtocol.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodeProtocol.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodeProtocol.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodeProtocol.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodeProtocol.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodeProtocol.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodeProtocol.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodeProtocol~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Raw/RawSyntaxTokenView.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxTokenView.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxTokenView.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxTokenView.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxTokenView.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxTokenView.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxTokenView.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxTokenView.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxTokenView~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SourceLength.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLength.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLength.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLength.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLength.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLength.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLength.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLength.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLength~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SourceLocation.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLocation.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLocation.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLocation.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLocation.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLocation.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLocation.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLocation.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourceLocation~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SourcePresence.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourcePresence.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourcePresence.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourcePresence.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourcePresence.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourcePresence.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourcePresence.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourcePresence.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SourcePresence~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SwiftSyntaxCompatibility.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntaxCompatibility.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntaxCompatibility.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntaxCompatibility.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntaxCompatibility.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntaxCompatibility.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntaxCompatibility.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntaxCompatibility.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SwiftSyntaxCompatibility~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Syntax.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Syntax.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Syntax.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Syntax.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Syntax.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Syntax.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Syntax.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Syntax.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Syntax~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxArena.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxArena.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxArena.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxArena.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxArena.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxArena.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxArena.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxArena.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxArena~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxChildren.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxChildren.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxChildren.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxChildren.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxChildren.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxChildren.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxChildren.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxChildren.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxChildren~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxCollection.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollection.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollection.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollection.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollection.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollection.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollection.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollection.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollection~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxData.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxData.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxData.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxData.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxData.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxData.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxData.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxData.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxData~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxText.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxText.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxText.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxText.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxText.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxText.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxText.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxText.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxText~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxTreeViewMode.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTreeViewMode.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTreeViewMode.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTreeViewMode.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTreeViewMode.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTreeViewMode.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTreeViewMode.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTreeViewMode.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTreeViewMode~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/TokenDiagnostic.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenDiagnostic.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenDiagnostic.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenDiagnostic.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenDiagnostic.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenDiagnostic.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenDiagnostic.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenDiagnostic.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenDiagnostic~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/TokenSyntax.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenSyntax.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenSyntax.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenSyntax.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenSyntax.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenSyntax.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenSyntax.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenSyntax.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenSyntax~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Trivia.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Trivia.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Trivia.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Trivia.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Trivia.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Trivia.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Trivia.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Trivia.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Trivia~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Utils.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Utils.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Utils.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Utils.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Utils.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Utils.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Utils.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Utils.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Utils~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/ChildNameForKeyPath.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/ChildNameForKeyPath~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/Keyword.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Keyword~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/RenamedChildrenCompatibility.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedChildrenCompatibility~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/RenamedNodesCompatibility.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RenamedNodesCompatibility~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxAnyVisitor.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxAnyVisitor~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxBaseNodes.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxBaseNodes~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxCollections.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxEnum.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxKind.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxRewriter.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxTraits.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTraits.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTraits.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTraits.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTraits.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTraits.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTraits.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTraits.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTraits~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxTransform.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTransform.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTransform.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTransform.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTransform.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTransform.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTransform.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTransform.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTransform~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxVisitor.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxVisitor.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxVisitor.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxVisitor.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxVisitor.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxVisitor.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxVisitor.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxVisitor.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxVisitor~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/TokenKind.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenKind.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenKind.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenKind.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenKind.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenKind.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenKind.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenKind.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TokenKind~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/Tokens.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Tokens.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Tokens.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Tokens.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Tokens.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Tokens.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Tokens.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Tokens.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/Tokens~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/TriviaPieces.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TriviaPieces.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TriviaPieces.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TriviaPieces.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TriviaPieces.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TriviaPieces.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TriviaPieces.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TriviaPieces.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/TriviaPieces~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/raw/RawSyntaxNodes.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodes.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodes.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodes.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodes.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodes.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodes.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodes.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxNodes~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/raw/RawSyntaxValidation.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxValidation.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxValidation.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxValidation.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxValidation.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxValidation.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxValidation.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxValidation.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/RawSyntaxValidation~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxDeclNodes.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxDeclNodes.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxDeclNodes.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxDeclNodes.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxDeclNodes.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxDeclNodes.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxDeclNodes.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxDeclNodes.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxDeclNodes~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxExprNodes.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxExprNodes.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxExprNodes.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxExprNodes.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxExprNodes.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxExprNodes.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxExprNodes.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxExprNodes.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxExprNodes~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxNodes.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxNodes.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxNodes.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxNodes.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxNodes.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxNodes.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxNodes.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxNodes.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxNodes~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxPatternNodes.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxPatternNodes.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxPatternNodes.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxPatternNodes.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxPatternNodes.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxPatternNodes.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxPatternNodes.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxPatternNodes.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxPatternNodes~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxStmtNodes.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxStmtNodes.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxStmtNodes.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxStmtNodes.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxStmtNodes.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxStmtNodes.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxStmtNodes.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxStmtNodes.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxStmtNodes~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxTypeNodes.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTypeNodes.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTypeNodes.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTypeNodes.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTypeNodes.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTypeNodes.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTypeNodes.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTypeNodes.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxTypeNodes~partial.swiftmodule"
+  }
+}

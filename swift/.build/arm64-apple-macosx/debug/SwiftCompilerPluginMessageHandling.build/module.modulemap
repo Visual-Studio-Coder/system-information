@@ -1,0 +1,4 @@
+module SwiftCompilerPluginMessageHandling {
+    header "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/arm64-apple-macosx/debug/SwiftCompilerPluginMessageHandling.build/SwiftCompilerPluginMessageHandling-Swift.h"
+    requires objc
+}

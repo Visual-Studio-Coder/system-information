@@ -1,0 +1,4 @@
+module SwiftSyntaxMacros {
+header "SwiftSyntaxMacros-Swift.h"
+export *
+}

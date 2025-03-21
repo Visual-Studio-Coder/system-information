@@ -1,0 +1,4 @@
+module SwiftSyntaxMacroExpansion {
+    header "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftSyntaxMacroExpansion-tool.build/SwiftSyntaxMacroExpansion-Swift.h"
+    requires objc
+}

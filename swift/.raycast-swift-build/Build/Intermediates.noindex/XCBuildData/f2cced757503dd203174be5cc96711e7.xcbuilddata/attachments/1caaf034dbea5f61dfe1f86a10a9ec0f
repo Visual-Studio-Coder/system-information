@@ -1,0 +1,60 @@
+{
+  "" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/SwiftOperators-master.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/SwiftOperators-master.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/SwiftOperators-master.dia",
+    "emit-module-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/SwiftOperators-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/SwiftOperators-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/SwiftOperators-master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/Operator.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/Operator.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/Operator.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/Operator.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorError+Diagnostics.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorError+Diagnostics.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorError+Diagnostics.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorError+Diagnostics.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorError.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorError.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorError.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorError.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Defaults.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable+Defaults.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable+Defaults.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable+Defaults.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Folding.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable+Folding.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable+Folding.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable+Folding.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Semantics.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable+Semantics.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable+Semantics.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable+Semantics.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/OperatorTable.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/PrecedenceGraph.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/PrecedenceGraph.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/PrecedenceGraph.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/PrecedenceGraph.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/PrecedenceGroup.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/PrecedenceGroup.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/PrecedenceGroup.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/PrecedenceGroup.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/SyntaxSynthesis.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/SyntaxSynthesis.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/SyntaxSynthesis.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftOperators.build/Objects-normal/x86_64/SyntaxSynthesis.o"
+  }
+}

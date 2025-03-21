@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SwiftBasicFormat-master.dia",
+    "emit-module-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SwiftBasicFormat-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SwiftBasicFormat-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SwiftBasicFormat-master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftBasicFormat/BasicFormat.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/BasicFormat.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/BasicFormat.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/BasicFormat.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/BasicFormat.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/BasicFormat.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/BasicFormat.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/BasicFormat.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/BasicFormat~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftBasicFormat/Syntax+Extensions.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Syntax+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Syntax+Extensions.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Syntax+Extensions.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Syntax+Extensions.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Syntax+Extensions.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Syntax+Extensions.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Syntax+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Syntax+Extensions~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftBasicFormat/SyntaxProtocol+Formatted.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SyntaxProtocol+Formatted.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SyntaxProtocol+Formatted.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SyntaxProtocol+Formatted.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SyntaxProtocol+Formatted.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SyntaxProtocol+Formatted.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SyntaxProtocol+Formatted.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SyntaxProtocol+Formatted.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/SyntaxProtocol+Formatted~partial.swiftmodule"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftBasicFormat/Trivia+FormatExtensions.swift" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Trivia+FormatExtensions.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Trivia+FormatExtensions.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Trivia+FormatExtensions.dia",
+    "index-unit-output-path" : "/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Trivia+FormatExtensions.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Trivia+FormatExtensions.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Trivia+FormatExtensions.o",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Trivia+FormatExtensions.swiftdeps",
+    "swiftmodule" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/debug/SwiftBasicFormat.build/Objects-normal/x86_64/Trivia+FormatExtensions~partial.swiftmodule"
+  }
+}

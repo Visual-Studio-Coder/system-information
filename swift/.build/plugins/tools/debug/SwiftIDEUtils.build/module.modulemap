@@ -1,0 +1,4 @@
+module SwiftIDEUtils {
+    header "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftIDEUtils.build/SwiftIDEUtils-Swift.h"
+    requires objc
+}

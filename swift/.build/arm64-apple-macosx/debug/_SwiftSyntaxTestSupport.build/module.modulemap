@@ -1,0 +1,4 @@
+module _SwiftSyntaxTestSupport {
+    header "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/arm64-apple-macosx/debug/_SwiftSyntaxTestSupport.build/_SwiftSyntaxTestSupport-Swift.h"
+    requires objc
+}

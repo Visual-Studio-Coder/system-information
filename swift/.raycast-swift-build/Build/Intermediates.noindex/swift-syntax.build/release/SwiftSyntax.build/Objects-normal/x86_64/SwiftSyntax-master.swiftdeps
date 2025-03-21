@@ -1,0 +1,105 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "9caa899df37bb752aa573256c4be42ebab5232c8f1854503dab6ec95c34f39ac"
+build_start_time: [1742568836, 315090000]
+build_end_time: [1742568836, 318876000]
+inputs:
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/AbsolutePosition.swift"
+  : !dirty [1742540548, 496405167]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Assert.swift"
+  : !dirty [1742540548, 496480882]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/BumpPtrAllocator.swift"
+  : !dirty [1742540548, 496640729]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/CommonAncestor.swift"
+  : !dirty [1742540548, 496791826]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Convenience.swift"
+  : !dirty [1742540548, 496861582]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/MemoryLayout.swift"
+  : !dirty [1742540548, 500730046]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/MissingNodeInitializers.swift"
+  : !dirty [1742540548, 500800261]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Raw/RawSyntax.swift"
+  : !dirty [1742540548, 501173335]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Raw/RawSyntaxLayoutView.swift"
+  : !dirty [1742540548, 501311305]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Raw/RawSyntaxNodeProtocol.swift"
+  : !dirty [1742540548, 501430191]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Raw/RawSyntaxTokenView.swift"
+  : !dirty [1742540548, 501539200]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SourceLength.swift"
+  : !dirty [1742540548, 501616874]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SourceLocation.swift"
+  : !dirty [1742540548, 501739468]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SourcePresence.swift"
+  : !dirty [1742540548, 501824475]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SwiftSyntaxCompatibility.swift"
+  : !dirty [1742540548, 501901649]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Syntax.swift"
+  : !dirty [1742540548, 502238428]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxArena.swift"
+  : !dirty [1742540548, 502364939]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxChildren.swift"
+  : !dirty [1742540548, 502488117]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxCollection.swift"
+  : !dirty [1742540548, 502611044]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxData.swift"
+  : !dirty [1742540548, 502933698]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxText.swift"
+  : !dirty [1742540548, 503049624]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/SyntaxTreeViewMode.swift"
+  : !dirty [1742540548, 503141883]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/TokenDiagnostic.swift"
+  : !dirty [1742540548, 503268685]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/TokenSyntax.swift"
+  : !dirty [1742540548, 503394696]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Trivia.swift"
+  : !dirty [1742540548, 503527625]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/Utils.swift"
+  : !dirty [1742540548, 503612340]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/ChildNameForKeyPath.swift"
+  : !dirty [1742540548, 504251605]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/Keyword.swift"
+  : !dirty [1742540548, 504541047]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/RenamedChildrenCompatibility.swift"
+  : !dirty [1742540548, 504935873]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/RenamedNodesCompatibility.swift"
+  : !dirty [1742540548, 505111513]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxAnyVisitor.swift"
+  : !dirty [1742540548, 506054430]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxBaseNodes.swift"
+  : !dirty [1742540548, 506508053]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxCollections.swift"
+  : !dirty [1742540548, 507662696]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxEnum.swift"
+  : !dirty [1742540548, 507769038]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxKind.swift"
+  : !dirty [1742540548, 507858504]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxRewriter.swift"
+  : !dirty [1742540548, 508579734]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxTraits.swift"
+  : !dirty [1742540548, 509597240]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxTransform.swift"
+  : !dirty [1742540548, 509821343]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxVisitor.swift"
+  : !dirty [1742540548, 510006026]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/TokenKind.swift"
+  : !dirty [1742540548, 510109535]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/Tokens.swift"
+  : !dirty [1742540548, 510650957]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/TriviaPieces.swift"
+  : !dirty [1742540548, 510832057]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/raw/RawSyntaxNodes.swift"
+  : !dirty [1742540548, 511669047]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/raw/RawSyntaxValidation.swift"
+  : !dirty [1742540548, 512894321]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxDeclNodes.swift"
+  : !dirty [1742540548, 515182605]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxExprNodes.swift"
+  : !dirty [1742540548, 515580056]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxNodes.swift"
+  : !dirty [1742540548, 517191822]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxPatternNodes.swift"
+  : !dirty [1742540548, 517485557]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxStmtNodes.swift"
+  : !dirty [1742540548, 517705701]
+  ? "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/syntaxNodes/SyntaxTypeNodes.swift"
+  : !dirty [1742540548, 517858548]

@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/MacrosImplementation-tool.build/master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/extensions-swift-tools/SwiftMacros/Implementation/MacrosVendor.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/MacrosImplementation-tool.build/MacrosVendor.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/MacrosImplementation-tool.build/MacrosVendor.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/MacrosImplementation-tool.build/MacrosVendor~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/MacrosImplementation-tool.build/MacrosVendor.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/checkouts/extensions-swift-tools/SwiftMacros/Implementation/RaycastMacro.swift": {
+    "dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/MacrosImplementation-tool.build/RaycastMacro.d",
+    "object": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/MacrosImplementation-tool.build/RaycastMacro.swift.o",
+    "swiftmodule": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/MacrosImplementation-tool.build/RaycastMacro~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/MacrosImplementation-tool.build/RaycastMacro.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module SwiftBasicFormat {
+    header "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftBasicFormat.build/SwiftBasicFormat-Swift.h"
+    requires objc
+}

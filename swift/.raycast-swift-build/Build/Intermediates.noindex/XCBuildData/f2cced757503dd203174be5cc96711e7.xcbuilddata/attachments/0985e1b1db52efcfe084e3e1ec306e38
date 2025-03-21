@@ -1,0 +1,75 @@
+{
+  "" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SwiftParserDiagnostics-master.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SwiftParserDiagnostics-master.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SwiftParserDiagnostics-master.dia",
+    "emit-module-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SwiftParserDiagnostics-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SwiftParserDiagnostics-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SwiftParserDiagnostics-master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/DiagnosticExtensions.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/DiagnosticExtensions.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/DiagnosticExtensions.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/DiagnosticExtensions.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/LexerDiagnosticMessages.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/LexerDiagnosticMessages.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/LexerDiagnosticMessages.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/LexerDiagnosticMessages.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MissingNodesError.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/MissingNodesError.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/MissingNodesError.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/MissingNodesError.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MissingTokenError.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/MissingTokenError.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/MissingTokenError.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/MissingTokenError.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MultiLineStringLiteralDiagnosticsGenerator.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/MultiLineStringLiteralDiagnosticsGenerator.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/MultiLineStringLiteralDiagnosticsGenerator.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/MultiLineStringLiteralDiagnosticsGenerator.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/ParseDiagnosticsGenerator.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/ParseDiagnosticsGenerator.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/ParseDiagnosticsGenerator.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/ParseDiagnosticsGenerator.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/ParserDiagnosticMessages.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/ParserDiagnosticMessages.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/ParserDiagnosticMessages.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/ParserDiagnosticMessages.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/PresenceUtils.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/PresenceUtils.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/PresenceUtils.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/PresenceUtils.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/SyntaxExtensions.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SyntaxExtensions.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SyntaxExtensions.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SyntaxExtensions.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/Utils.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/Utils.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/Utils.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/Utils.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/ChildNameForDiagnostics.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/ChildNameForDiagnostics.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/ChildNameForDiagnostics.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/ChildNameForDiagnostics.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/SyntaxKindNameForDiagnostics.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SyntaxKindNameForDiagnostics.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SyntaxKindNameForDiagnostics.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/SyntaxKindNameForDiagnostics.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/TokenNameForDiagnostics.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/TokenNameForDiagnostics.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/TokenNameForDiagnostics.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftParserDiagnostics.build/Objects-normal/x86_64/TokenNameForDiagnostics.o"
+  }
+}

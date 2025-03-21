@@ -1,0 +1,40 @@
+{
+  "" : {
+    "const-values" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.swiftconstvalues",
+    "dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.d",
+    "diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.dia",
+    "emit-module-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.swiftdeps"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/CompilerPluginMessageHandler.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CompilerPluginMessageHandler.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CompilerPluginMessageHandler.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CompilerPluginMessageHandler.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Diagnostics.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Diagnostics.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Diagnostics.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Diagnostics.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Macros.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Macros.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Macros.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Macros.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMacroExpansionContext.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMacroExpansionContext.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMacroExpansionContext.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMacroExpansionContext.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessageCompatibility.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessageCompatibility.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessageCompatibility.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessageCompatibility.o"
+  },
+  "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessages.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessages.o",
+    "llvm-bc" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessages.bc",
+    "object" : "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.raycast-swift-build/Build/Intermediates.noindex/swift-syntax.build/release/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessages.o"
+  }
+}
