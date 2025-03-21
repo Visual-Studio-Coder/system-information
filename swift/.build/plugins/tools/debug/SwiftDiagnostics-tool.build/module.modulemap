@@ -1,4 +1,0 @@
-module SwiftDiagnostics {
-    header "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/plugins/tools/debug/SwiftDiagnostics-tool.build/SwiftDiagnostics-Swift.h"
-    requires objc
-}

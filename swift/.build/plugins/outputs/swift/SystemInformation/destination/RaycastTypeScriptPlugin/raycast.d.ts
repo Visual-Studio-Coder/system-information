@@ -1,1 +1,0 @@
-export function getStorageInfo(): Promise<any>;

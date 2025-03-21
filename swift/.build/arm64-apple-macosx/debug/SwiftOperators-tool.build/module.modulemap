@@ -1,4 +1,0 @@
-module SwiftOperators {
-    header "/Users/vaibhavsatishkumar/Downloads/system-information/swift/.build/arm64-apple-macosx/debug/SwiftOperators-tool.build/SwiftOperators-Swift.h"
-    requires objc
-}
