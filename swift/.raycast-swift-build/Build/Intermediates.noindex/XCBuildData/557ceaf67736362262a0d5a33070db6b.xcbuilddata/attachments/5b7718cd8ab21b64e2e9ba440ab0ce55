@@ -1,4 +1,0 @@
-module SwiftSyntax {
-header "SwiftSyntax-Swift.h"
-export *
-}

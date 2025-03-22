@@ -1,4 +1,0 @@
-module SwiftDiagnostics {
-header "SwiftDiagnostics-Swift.h"
-export *
-}

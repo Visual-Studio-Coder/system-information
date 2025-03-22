@@ -1,4 +1,0 @@
-module SwiftParserDiagnostics {
-header "SwiftParserDiagnostics-Swift.h"
-export *
-}

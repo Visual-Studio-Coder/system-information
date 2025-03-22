@@ -1,4 +1,0 @@
-module SwiftCompilerPlugin {
-header "SwiftCompilerPlugin-Swift.h"
-export *
-}
